@@ -1,8 +1,8 @@
-package Clase1;
+package Clase1Scanner;
 
 import java.util.Scanner;
 
-public class clase1 {
+public class ClaseScanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
